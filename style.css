@@ -1,0 +1,37 @@
+.body{
+    /* font-size: 20px; */
+}
+/* font-family: 'Assistant', sans-serif;
+font-family: 'Balsamiq Sans', cursive;
+font-family: 'Bebas Neue', cursive; */
+.text1 h1 {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 80px;
+    color: rgb(36, 35, 53);
+}
+   
+#tex-color, .tex-color{
+    color: gold
+
+}
+.buttons {
+    background-color: rgb(101, 156, 46);
+    border-color:rgb(101, 156, 46);
+    border-radius: 15px ;
+}
+.cards-button{
+    background-color: rgb(101, 156, 46);
+    border-color:rgb(101, 156, 46);
+    border-radius: 15px ;
+  
+}
+.heading2 {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 60px;
+    color: rgb(36, 35, 53);
+}
+.product-img{
+    background-color:lightgrey;
+    border-radius: 20px;
+
+}
