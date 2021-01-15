@@ -4,12 +4,22 @@
 /* font-family: 'Assistant', sans-serif;
 font-family: 'Balsamiq Sans', cursive;
 font-family: 'Bebas Neue', cursive; */
+.nav-logo{
+    width: 75%;
+}
 .text1 h1 {
     font-family: 'Bebas Neue', cursive;
     font-size: 80px;
     color: rgb(36, 35, 53);
 }
-   
+.image-1{
+    width: 100%;
+}
+.images{
+    width: 100%;
+    
+}
+
 #tex-color, .tex-color{
     color: gold
 
@@ -33,5 +43,9 @@ font-family: 'Bebas Neue', cursive; */
 .product-img{
     background-color:lightgrey;
     border-radius: 20px;
+    width: 90%;
+ height: 90%;
+}
+.card-body{
 
 }
