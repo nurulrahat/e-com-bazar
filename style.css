@@ -49,3 +49,6 @@ font-family: 'Bebas Neue', cursive; */
 .card-body{
 
 }
+.border-shape{
+    border-radius: 20px;
+}
